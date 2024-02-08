@@ -1,0 +1,7 @@
+Test Conceprs 
+API: (Application Programming Interface):
+An API is a set of rules, protocols, and tools that allows different software applications to communicate with each other.
+It defines the methods and data formats that applications can use to request and exchange information.
+REST API : Rest API is a basically an app created by developers, most time is just a few lines of code that have only one purpose and serve as endpoint holder for data a transacations,(Representational Data Transfer ) suuch as the Basic CRUD operations requieres to run a regular app. uses standard HTTP methods (GET, POST, PUT, DELETE) to perform CRUD operations on resources.
+Node.js : Node. js is required in order for us tu run actual javascript in your projecs.
+Express:  Expresss is a node.s framwework used by developers that allows for different functions. Provides a set of features for building web and mobile applications, including routing, middleware, and template engines.
